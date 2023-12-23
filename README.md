@@ -8,7 +8,7 @@ So it's not JUST researchers/labs involved that developing as well as the confer
 
 ## Awesome Principles For Building a 10X-er Culture 
 
-The outline of this curated list began as a [NewStack blog post](https://thenewstack.io/7-principles-and-10-tactics-to-make-you-a-10x-developer/).
+The outlines of these two curated lists actually began their lives as a [NewStack blog post](https://thenewstack.io/7-principles-and-10-tactics-to-make-you-a-10x-developer/).
  
 ### Principle 1: Speed
 
