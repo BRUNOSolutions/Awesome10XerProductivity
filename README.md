@@ -83,7 +83,9 @@ Your app is hard to debug.
 You don’t have tests.
 Those are all things you must fix.
 
-## Practical Tactics For Everyone To Use
+## AWESOME Practical 10X-er Cultural Practices
+
+Suggestions ... maybe STRONG suggestions for things to aim for ... but not hard requirements ... at least not right away.
 
 ### Decouple Deployments from Releases
 Fundamentally there are two possible actions for changing code in production: deployments and releases. Releasing refers to the process of changing user experience in a meaningful way. Deploying refers to the process of building, testing and rolling out changes to production software. The traditional process is that you change the code on a branch, and when it’s ready, you merge and deploy it. Once it’s deployed, users will see the new code.
